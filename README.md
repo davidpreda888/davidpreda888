@@ -52,12 +52,6 @@ I'm a **Software Engineering Co-Op student at McGill University** based in Montr
 
 ---
 
-## 📊 GitHub Stats
-
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidpreda888&show_icons=true&theme=default&hide_border=true)
-
----
-
 ## 📬 Let's Connect!
 
 - 📧 [david.preda@mail.mcgill.ca](mailto:david.preda@mail.mcgill.ca)
